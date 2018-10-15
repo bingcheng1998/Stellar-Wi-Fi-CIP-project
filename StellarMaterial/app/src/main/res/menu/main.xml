@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/version_introduction"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="版本介绍"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exit"
+        android:icon="@android:drawable/ic_menu_revert"
+        android:title="使用说明"
+        app:showAsAction="never" />
+</menu>

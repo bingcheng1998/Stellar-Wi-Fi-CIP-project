@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_link"
+            android:icon="@drawable/ic_bulb"
+            android:title="连接灯泡" />
+        <item
+            android:id="@+id/nav_test"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="彩灯排序" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_tshirt"
+            android:title="灯泡测试" />
+        <item
+            android:id="@+id/nav_book"
+            android:icon="@drawable/ic_map"
+            android:title="使用说明" />
+
+    </group>
+
+
+
+    <item android:title="组件测试">
+        <menu>
+            <item
+                android:id="@+id/nav_colorpicker"
+                android:icon="@drawable/ic_colorpicker"
+                android:title="颜色选择"/>
+            <item
+                android:id="@+id/nav_timepicker"
+                android:icon="@drawable/ic_timepicker"
+                android:title="时间选择"/>
+            <item
+                android:id="@+id/nav_storage"
+                android:icon="@drawable/nav_storage"
+                android:title="本地存储"/>
+            <item
+                android:id="@+id/nav_litepal"
+                android:icon="@drawable/nav_litpal"
+                android:title="LitePal 试验"/>
+        </menu>
+    </item>
+
+
+
+    <item android:title="三思 Sansi">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="分享软件" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="使用反馈" />
+        </menu>
+    </item>
+</menu>

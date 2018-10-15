@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF03A9F4</color>
+    <color name="colorPrimaryDark">#FF0288D1</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="status_bar_color">@color/colorPrimaryDark</color>
+    <color name="white_gray">#F5F5F5</color>
+    <color name="gray">#CFCFCF</color>
+    <color name="card">#eaeaea</color>
+    <color name="black_gary">#666666</color>
+    <color name="wifi_connect_text">#666666</color>
+</resources>

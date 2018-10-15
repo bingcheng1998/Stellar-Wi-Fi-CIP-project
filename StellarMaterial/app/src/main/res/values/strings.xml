@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">StellarMaterial</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fruit">FruitActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+
+    <string name="version_introduction">
+        "摄影调色盘 APP 介绍：\n\n"
+        
+        "\t\t此安卓版三思彩色LED灯泡遥控器由胡炳城制作"
+        "配合林越川制作的八爪鱼灯台使用，可以同时调节四个灯泡的颜色与亮度。\n\t\t此项目开始于2017年11月，预计持续一年"
+        "时间。\n\t\t在此项目中同学们增强了动手能力，将理论用于实践。并且学习了java语言，和Android Studio 的编程方法。"
+        "从零开始，完成了这个App。同学们也从没接触过安卓与JAVA的初学者变成了开发出一款美观实用的APP的开发。"
+        
+        "\n\n三思公司介绍：\n\n\t\t三思LED应用的产品、产值、出口创汇"
+        "及市场占有率均居中国LED显示行业领军地位。上海市质量金奖、上海市科技进步一等奖、全球卓越绩效奖等重要奖项，"
+        "诚信、创新、求真、适度是上海三思的企业价值观，也是我们对客户、对员工、对社会的承诺。\n\t\t自1993年成立以来，"
+        "上海三思始终如一地为客户提供更好更优质的解决方案及服务，全方位满足客户多层次需求，用诚 信塑造品牌，以质量"
+        "赢得口碑。\n\t\t上海三思始终坚持“以人为本”人才理念，关心员工发展，注重人文关怀，营造员工发挥潜力与激情的良好空间，"
+        "构筑 企业共同价值观。\n\t\t上海三思秉承着可持续发展理念，在研发和产品生产制造过程中，十分重视节能环保，树立起敢于担当的企业形象。"
+        "“SANSI”作为中国民族品牌的代表，傲立于世界企业之林。\n\n地址：上海市闵行区疏影路1280号  \n传真：021-"
+        "54883445 \n邮箱：sales@sansitech.com"
+    </string>
+
+    <string name="title_activity_introduction">IntroductionActivity</string>
+
+
+    <string name="order_introduction">
+        "排序方法: \n\t\t先点击"检测灯泡联网情况"，当所有灯泡图标都亮起来后点击 "开始彩色排序模式"，然后按照上图"
+        "安装灯泡：\n\t\t红在上，蓝在下，绿在左，黄在右。\n\t\t安装好后再次通电测试，显示效果如图后可以进行下一步操作"
+
+    </string>
+    <string name="title_activity_book">使用说明</string>
+    <string name="title_home">连接WiFi</string>
+    <string name="title_dashboard">灯泡排序</string>
+    <string name="title_notifications">智能调光</string>
+
+</resources>
