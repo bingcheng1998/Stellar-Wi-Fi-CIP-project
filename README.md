@@ -1,22 +1,8 @@
 ![](https://ws1.sinaimg.cn/large/006tNbRwgy1fxce0wj78qj307i01x3yf.jpg)
 
- 
+详情请见[个人博客](https://bingcheng1998.github.io/zh-CN/制作/sansi全彩灯泡的app设计.html)
 
-项目编号：  CIP02004  
-
-**论文题目：  关于Wi-Fi智能球泡灯应用场景设计的研究**    
-
-**项目负责人：  胡炳城  学院（系）：     密西根学院**     
-
-**指导教师**：  **杨宇红  学院（系）：     电院**       
-
-**参与学生：        胡炳城        林越川**                
-
-​    
-
-​    **项目执行时间：  2017 年  12  月 至  2018  年  12  月**
-
-
+![APP界面](https://ws2.sinaimg.cn/large/006tNbRwgy1fxce37t6qbj30mm0a6q55.jpg)
 
 ## 摘要
 
