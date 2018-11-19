@@ -4,11 +4,11 @@
 
 ## 指导老师评价
 
-![老师评价](https://ws2.sinaimg.cn/large/006tNbRwgy1fxda1b9zgwj31ro0u0ted.jpg)
+![老师评价](https://ws3.sinaimg.cn/large/006tNbRwgy1fxda921vkgj31ro0u0n5z.jpg)
 
 ## 院系评价
 
-![院系评价](https://ws3.sinaimg.cn/large/006tNbRwgy1fxda1eeuvfj312d0u0agu.jpg)
+![院系评价](https://ws2.sinaimg.cn/large/006tNbRwgy1fxda97khsgj312d0u0n0k.jpg)
 
 ## 软件截图
 
