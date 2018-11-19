@@ -2,6 +2,16 @@
 
 详情请见[个人博客](https://bingcheng1998.github.io/zh-CN/制作/sansi全彩灯泡的app设计.html)
 
+## 指导老师评价
+
+![老师评价](https://ws2.sinaimg.cn/large/006tNbRwgy1fxda1b9zgwj31ro0u0ted.jpg)
+
+## 院系评价
+
+![院系评价](https://ws3.sinaimg.cn/large/006tNbRwgy1fxda1eeuvfj312d0u0agu.jpg)
+
+## 软件截图
+
 ![APP界面](https://ws2.sinaimg.cn/large/006tNbRwgy1fxce37t6qbj30mm0a6q55.jpg)
 
 ## 摘要
